@@ -6,7 +6,7 @@ This repository contains supplementary material for the research article publish
 
 # Data
 
-The data consists in two sets of annotated data: a **training set data** to train the classifier model and a **test data set** to check the models accuracy. For an explanations of the encoded values, se the research article cited above. The data is based on the GRASS corpus of spoken Austrian German (Schuppler, Hagmüller & Zahrer 2017). This corpus is not publicly available but can be obtained on request for research purposes [under this link](https://www.spsc.tugraz.at/databases-and-tools/grass-the-graz-corpus-of-read-and-spontaneous-speech.html).
+The data consists in two sets of annotated data: a **training set data** to train the classifier model and a **test data set** to check the models accuracy. For explanations of the encoded values, see the research article cited above. The data is based on the GRASS corpus of spoken Austrian German (Schuppler, Hagmüller & Zahrer 2017). This corpus is not publicly available but can be obtained on request for research purposes [under this link](https://www.spsc.tugraz.at/databases-and-tools/grass-the-graz-corpus-of-read-and-spontaneous-speech.html).
 
 # Analysis
 
