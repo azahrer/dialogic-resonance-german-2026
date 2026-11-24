@@ -1,0 +1,147 @@
+SA-Intervall Nr.	Sprecher-ID	TextGrid-ID	Zustimmung	Mapping auf Bezugsäußerung	Information ersetzt	Information hinzugefügt	Antwort auf Entscheidungsfrage	Antwort auf Alternativenfrage	Informationstyp ersetzt	Informationstyp hinzugefügt	Information paraphrasiert	Partikel Zustimmung	Partikel Ablehnung	polarity change
+SA 2*	001M	001M002M	ja	ja	nein	nein	ja	nein	NA	NA	ja	NA	NA	remain
+SA 7*	002M	001M002M	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja stimmt	nein	NA
+SA 15*	001M	001M002M	ja	ja	ja	nein	nein	nein	Prädikation	NA	ja	ja	NA	remain
+SA 33*	002M	001M002M	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja	NA	NA
+SA 35*	001M	001M002M	ja	ja	nein	nein	ja	nein	NA	NA	nein	NA	NA	remain
+SA 39*	002M	001M002M	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja	NA	NA
+SA 8*	023F	003M023F	ja	ja	nein	nein	ja	nein	NA	NA	nein	ja	NA	NA
+SA 13*	003M	003M023F	ja	ja	ja	nein	ja	nein	Prädikation	NA	nein	ja	NA	remain
+SA 15*	023F	003M023F	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja	NA	NA
+SA 23*	003M	003M023F	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja ok	NA	change
+SA 3*	024F	004M024F	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja ok	NA	NA
+SA 10A*	024F	004M024F	ja	ja	nein	ja	nein	nein	NA	Referenz	ja	NA	NA	remain
+SA 10*	004M	004M024F	ja	ja	ja	nein	nein	nein	Referenz	NA	ja	NA	NA	remain
+SA 23*	004M	004M024F	ja	ja	nein	nein	nein	nein	NA	NA	nein	NA	NA	NA
+SA 2*	007M	006M007M	ja	ja	nein	nein	ja	nein	NA	NA	nein	echt	NA	NA
+SA 3*	007M	006M007M	ja	ja	nein	nein	ja	nein	NA	NA	nein	ja	NA	remain
+SA 9*	007M	006M007M	ja	ja	ja	nein	ja	nein	Referenz	NA	nein	ja	NA	remain
+SA 12*	006M	006M007M	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja	NA	NA
+SA 2*	010M	009M010M	ja	ja	ja	nein	ja	nein	Referenz	NA	nein	ja	NA	remain
+SA 17*	010M	009M010M	ja	ja	nein	ja	nein	nein	NA	Prädikation	nein	ja	NA	remain
+SA 16*	013M	013M014M	ja	ja	nein	nein	nein	nein	NA	NA	ja	ja	NA	NA
+SA 20*	013M	013M014M	ja	ja	nein	nein	nein	nein	NA	NA	ja	NA	nein	NA
+SA 27A*	013M	013M014M	ja	ja	ja	nein	nein	nein	NA	Prädikation	ja	ja	NA	change
+SA 2*	017M	015M017M	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja	NA	NA
+SA 3*	015M	015M017M	ja	nein	nein	ja	ja	nein	NA	Prädikation	nein	ja	NA	remain
+SA 4*	015M	015M017M	ja	ja	ja	ja	ja	nein	Prädikation	Modifikation	ja	ja	NA	remain
+SA 6*	015M	015M017M	ja	ja	ja	ja	ja	nein	Referenz	Referenz	nein	ja	NA	remain
+SA 10*	015M	015M017M	ja	ja	nein	ja	nein	nein	NA	Prädikation	nein	ja	NA	remain
+SA 11*	015M	015M017M	ja	ja	ja	nein	ja	nein	Modifikation	NA	nein	jaja	NA	remain
+SA 13*	015M	015M017M	ja	ja	ja	nein	ja	nein	Prädikation	NA	nein	ja	nein	remain
+SA 13_1*	015M	015M017M	ja	ja	nein	nein	nein	ja	NA	NA	nein	ja genau	NA	NA
+SA 14*	015M	015M017M	ja	ja	nein	nein	ja	nein	NA	NA	nein	ja genau	NA	NA
+SA 23*	015M	015M017M	ja	ja	ja	nein	ja	nein	Prädikation	NA	nein	ja genau	NA	remain
+SA 32*	015M	015M017M	ja	ja	nein	ja	ja	nein	NA	Prädikation	nein	ja	NA	remain
+SA 33*	015M	015M017M	ja	ja	nein	nein	nein	ja	NA	NA	nein	ja genau	NA	NA
+SA 37*	015M	015M017M	ja	ja	ja	nein	nein	nein	Prädikation	NA	ja	ja	NA	remain
+SA 52*	015M	015M017M	ja	ja	ja	nein	nein	nein	Modifikation	NA	nein	ja genau	NA	remain
+SA 53*	015M	015M017M	ja	ja	ja	nein	ja	nein	Referenz	NA	ja	ja genau	NA	remain
+SA 54*	015M	015M017M	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja	NA	NA
+SA 8A*	018M	016M018M	ja	nein	nein	ja	ja	nein	NA	Referenz	nein	ja genau	NA	NA
+SA 11*	016M	016M018M	ja	ja	ja	nein	ja	nein	Modifikation	NA	nein	ja	NA	NA
+SA 14*	016M	016M018M	ja	ja	ja	nein	ja	nein	NA	Referenz	nein	ja	NA	remain
+SA 25*	016M	016M018M	ja	ja	nein	nein	ja	nein	NA	NA	nein	genau	NA	remain
+SA 26*	018M	016M018M	ja	ja	nein	nein	nein	nein	NA	NA	nein	NA	NA	remain
+SA 28*	018M	016M018M	ja	ja	ja	nein	nein	nein	Modifikation	NA	ja	NA	NA	remain
+SA 7*	021F	021F022F	ja	ja	nein	nein	ja	nein	NA	NA	nein	NA	NA	NA
+SA 9*	021F	021F022F	ja	ja	ja	ja	nein	nein	Referenz	Prädikation	ja	das stimmt	NA	remain
+SA 13*	022F	021F022F	ja	ja	nein	ja	nein	nein	NA	Prädikation	nein	ja	NA	remain
+SA 25*	021F	021F022F	ja	ja	nein	nein	nein	nein	NA	NA	nein	NA	NA	remain
+SA 1*	005M	025F005M	ja	ja	nein	nein	ja	nein	NA	NA	nein	ja	NA	remain
+SA 6*	005M	025F005M	ja	ja	nein	nein	nein	nein	NA	NA	nein	NA	nein	change
+SA 9*	025F	025F005M	ja	ja	nein	ja	ja	nein	NA	NA	nein	NA	NA	remain
+SA 14*	025F	025F005M	ja	ja	ja	nein	nein	ja	Modifikation	NA	ja	ja	NA	NA
+SA 15*	025F	025F005M	ja	ja	nein	nein	nein	nein	NA	NA	nein	NA	NA	remain
+SA 30*	025F	025F005M	ja	ja	ja	nein	ja	nein	Modifikation	NA	nein	ja	NA	remain
+SA 31*	025F	025F005M	ja	ja	ja	nein	ja	nein	Referenz	NA	ja	ja	NA	remain
+SA 25*	026F	026F027F	ja	ja	ja	ja	nein	nein	Referenz	Referenz	ja	ja	NA	remain
+SA 2*	008M	028F008M	ja	ja	nein	ja	nein	nein	NA	Prädikation	nein	eben ja	NA	remain
+SA 15*	008M	028F008M	ja	ja	ja	nein	ja	nein	Modifikation	NA	nein	ja	NA	remain
+SA 17A*	008M	028F008M	ja	ja	nein	ja	ja	nein	NA	Prädikation	ja	ja	NA	remain
+SA 24*	031F	031F011M	ja	ja	nein	nein	ja	nein	NA	NA	nein	ja	NA	NA
+SA 2*	032F	032F012M	ja	ja	nein	nein	ja	nein	NA	NA	ja	NA	nein	remain
+SA 6*	032F	032F012M	ja	nein	nein	nein	nein	nein	NA	NA	nein	NA	NA	NA
+SA 7*	012M	032F012M	ja	ja	nein	ja	nein	nein	NA	Prädikation	ja	ja das stimmt	NA	NA
+SA 9*	012M	032F012M	ja	ja	nein	nein	ja	nein	NA	NA	ja	doch ja	NA	change
+SA 4*	033F	033F034F	ja	ja	nein	nein	nein	nein	NA	NA	nein	NA	NA	remain
+SA 7*	033F	033F034F	ja	ja	nein	nein	ja	nein	NA	NA	nein	NA	NA	remain
+SA 21*	033F	033F034F	ja	nein	nein	ja	ja	nein	NA	Modifikation	nein	ja	NA	NA
+SA 3*	035F	035F036F	ja	ja	nein	ja	nein	nein	NA	Referenz	ja	NA	NA	NA
+SA 9*	036F	035F036F	ja	ja	nein	ja	ja	nein	NA	Prädikation	nein	ge	NA	remain
+SA 10*	036F	035F036F	ja	ja	nein	nein	ja	nein	NA	NA	nein	ja genau	NA	NA
+SA 18*	036F	035F036F	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja eh	NA	remain
+SA 28*	036F	035F036F	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja	NA	remain
+SA 32*	035F	035F036F	ja	nein	nein	ja	ja	nein	NA	Modifikation	nein	ja	NA	NA
+SA 39*	035F	035F036F	ja	ja	nein	nein	ja	nein	NA	NA	nein	ja genau	NA	NA
+SA 47*	035F	035F036F	ja	ja	nein	nein	nein	nein	NA	NA	nein	NA	NA	remain
+SA 50*	035F	035F036F	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja	NA	remain
+SA 2*	019M	037F019M	ja	ja	nein	ja	nein	nein	NA	Prädikation	ja	NA	nein	NA
+SA 6*	019M	037F019M	ja	ja	ja	nein	nein	nein	Prädikation	NA	ja	NA	NA	remain
+SA 7*	019M	037F019M	ja	ja	nein	ja	nein	nein	NA	Prädikation	ja	NA	NA	NA
+SA 16*	019M	037F019M	ja	ja	ja	nein	nein	nein	Referenz	NA	ja	NA	NA	remain
+SA 19*	019M	037F019M	ja	ja	nein	ja	nein	nein	NA	Prädikation	ja	NA	NA	remain
+SA 27*	037F	037F019M	ja	ja	nein	nein	nein	nein	NA	NA	nein	NA	NA	NA
+SA 38*	019M	037F019M	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja	NA	NA
+SA 38_1*	019M	037F019M	ja	ja	nein	nein	nein	nein	NA	NA	nein	ja	NA	NA
+SA 50*	037F	037F019M	ja	nein	nein	nein	nein	nein	NA	NA	nein	ja eh genau	NA	remain
+SA 4A*	038F	038F039F	ja	ja	nein	nein	ja	nein	NA	NA	nein	NA	nein	NA
+SA 7*	038F	038F039F	ja	ja	nein	ja	ja	nein	NA	Prädikation	nein	genau	NA	remain
+SA 17*	038F	038F039F	ja	ja	nein	nein	nein	ja	NA	NA	nein	ja	NA	remain
+SA 5*	001M	001M002M	nein	ja	nein	ja	nein	nein	NA	Prädikation	nein	NA	NA	NA
+SA 6*	002M	001M002M	nein	ja	ja	nein	nein	nein	Referenz	NA	nein	NA	nein	remain
+SA 11*	002M	001M002M	nein	ja	ja	nein	ja	nein	Referenz	NA	nein	NA	nein	NA
+SA 16*	002M	001M002M	nein	ja	ja	nein	ja	nein	Referenz	NA	nein	NA	nein	NA
+SA 9*	023F	003M023F	nein	ja	nein	nein	nein	nein	NA	NA	nein	NA	NA	remain
+SA 9_1*	003M	003M023F	nein	ja	nein	ja	nein	nein	NA	Prädikation	nein	NA	NA	remain
+SA 17*	024F	004M024F	nein	ja	nein	nein	ja	nein	NA	NA	nein	NA	nein	change
+SA 18*	004M	004M024F	nein	ja	ja	nein	ja	nein	Modifikation	NA	nein	NA	nein	remain
+SA 34*	004M	004M024F	nein	ja	ja	nein	nein	nein	Modifikation	NA	nein	doch	NA	change
+SA 18A*	007M	006M007M	nein	ja	nein	ja	nein	nein	NA	Prädikation	nein	doch	NA	change
+SA 24*	007M	006M007M	nein	ja	ja	nein	nein	nein	Referenz	NA	nein	NA	nein	NA
+SA 25*	007M	006M007M	nein	ja	ja	nein	nein	nein	Referenz	NA	nein	NA	nein	change
+SA 31*	007M	006M007M	nein	ja	nein	nein	ja	nein	NA	NA	nein	NA	nein	NA
+SA 13B*	009M	009M010M	nein	ja	nein	nein	nein	nein	NA	NA	nein	NA	nein	change
+SA 24*	009M	009M010M	nein	ja	nein	ja	nein	nein	NA	Prädikation	nein	NA	ne	NA
+SA 26*	010M	009M010M	nein	ja	nein	nein	ja	nein	NA	NA	nein	ja sicher	NA	change
+SA 27*	009M	009M010M	nein	ja	nein	ja	nein	ja	NA	Referenz	ja	NA	nein	NA
+SA 35*	014M	013M014M	nein	ja	ja	nein	ja	nein	Referenz	NA	nein	NA	NA	remain
+SA 2*	015M	015M017M	nein	ja	ja	nein	ja	nein	Referenz	NA	nein	NA	nein	NA
+SA 12*	015M	015M017M	nein	ja	ja	nein	ja	nein	Referenz	NA	ja	NA	nein	remain
+SA 16*	017M	015M017M	nein	ja	ja	nein	ja	nein	Referenz	NA	nein	NA	nein	remain
+SA 18*	015M	015M017M	nein	ja	nein	nein	ja	nein	NA	NA	nein	NA	NA	remain
+SA 20*	015M	015M017M	nein	ja	nein	ja	nein	ja	NA	Prädikation	nein	NA	nein	NA
+SA 21*	015M	015M017M	nein	ja	nein	nein	ja	nein	NA	NA	nein	NA	nein	NA
+SA 22*	015M	015M017M	nein	ja	ja	nein	ja	nein	Prädikation	NA	nein	NA	nein	remain
+SA 44*	017M	015M017M	nein	ja	nein	nein	nein	nein	NA	NA	nein	ja	NA	change
+SA 8*	016M	016M018M	nein	ja	ja	nein	ja	nein	NA	NA	nein	ja	nein	change
+SA 15*	016M	016M018M	nein	ja	nein	nein	ja	nein	NA	NA	nein	NA	nein	change
+SA 15_1*	016M	016M018M	nein	ja	ja	nein	ja	nein	Prädikation	NA	nein	NA	nein	remain
+SA 15_16*	022F	021F022F	nein	nein	nein	nein	ja	nein	NA	NA	nein	NA	nein	NA
+SA 20*	022F	021F022F	nein	ja	ja	nein	ja	nein	Modifikation	NA	nein	NA	NA	remain
+SA 20_1*	021F	021F022F	nein	ja	ja	nein	nein	nein	Modifikation	NA	nein	NA	NA	remain
+SA 22*	021F	021F022F	nein	ja	nein	ja	nein	nein	NA	Prädikation	nein	ja	NA	remain
+SA 18*	025F	025F005M	nein	ja	nein	ja	nein	nein	NA	Prädikation	ja	NA	NA	remain
+SA 18B*	025F	025F005M	nein	ja	ja	nein	ja	nein	Referenz	NA	nein	NA	NA	NA
+SA 25*	025F	025F005M	nein	ja	ja	ja	ja	nein	Referenz	Prädikation	nein	NA	NA	change
+SA 27*	025F	025F005M	nein	ja	ja	nein	nein	ja	Prädikation	NA	nein	NA	NA	remain
+SA 1*	008M	028F008M	nein	ja	ja	nein	nein	nein	Prädikation	NA	nein	NA	NA	change
+SA 10*	028F	028F008M	nein	ja	ja	ja	nein	nein	Prädikation	Prädikation	ja	ja	NA	change
+SA 12*	008M	028F008M	nein	ja	ja	nein	ja	nein	Referenz	NA	nein	NA	nein	change
+SA 16*	008M	028F008M	nein	ja	nein	ja	ja	nein	NA	Prädikation	nein	NA	NA	remain
+SA 23*	028F	028F008M	nein	ja	ja	nein	ja	nein	Referenz	NA	nein	NA	NA	NA
+SA 4*	030F	029F030F	nein	ja	ja	nein	nein	nein	Prädikation	NA	nein	NA	NA	change
+SA 15*	030F	029F030F	nein	ja	ja	nein	ja	nein	Prädikation	NA	nein	NA	nein	remain
+SA 22A*	030F	029F030F	nein	ja	nein	ja	nein	nein	NA	Prädikation	nein	NA	nein	change
+SA 21A*	011M	031F011M	nein	nein	nein	ja	nein	nein	NA	Prädikation	nein	NA	NA	remain
+SA 26*	031F	031F011M	nein	ja	ja	nein	nein	nein	Modifikation	NA	nein	NA	nein	NA
+SA 5A*	032F	032F012M	nein	ja	ja	nein	nein	nein	Prädikation	NA	nein	NA	nein	remain
+SA 8A*	012M	032F012M	nein	ja	nein	nein	ja	nein	NA	NA	nein	NA	nein	change
+SA 6*	034F	033F034F	nein	ja	ja	nein	nein	nein	Prädikation	NA	nein	NA	NA	remain
+SA 23*	034F	033F034F	nein	ja	nein	ja	nein	nein	NA	Referenz	nein	NA	NA	change
+SA 45*	034F	033F034F	nein	ja	nein	nein	nein	nein	NA	NA	nein	NA	NA	change
+SA 6*	036F	035F036F	nein	ja	nein	nein	ja	nein	NA	NA	nein	NA	nein	NA
+SA 8*	036F	035F036F	nein	ja	ja	nein	ja	nein	Modifikation	NA	nein	NA	NA	remain
+SA 17*	035F	035F036F	nein	ja	nein	nein	nein	ja	NA	NA	nein	NA	nein	remain
+SA 38*	035F	035F036F	nein	ja	ja	nein	ja	nein	Modifikation	NA	nein	NA	nein	NA
+SA 24*	037F	037F019M	nein	ja	ja	nein	ja	nein	Referenz	NA	nein	NA	nein	remain
