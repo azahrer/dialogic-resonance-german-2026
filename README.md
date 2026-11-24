@@ -31,5 +31,8 @@ The script generates the statistical results and saves two figures in the result
 
 # License
 
-[...]
+The analysis code (analysis.py) is licensed under the MIT License.
 
+The dataset provided in the data/ directory, the figures in the results/ directory, and the accompanying documentation are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Please cite the accompanying publication when using the data or code.
