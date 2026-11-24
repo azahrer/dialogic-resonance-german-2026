@@ -10,7 +10,24 @@ The data consists in two sets of annotated data: a **training set data** to trai
 
 # Analysis
 
-The ML model is trained with Python ... and *scikitlearn*. [...]
+The statistical analyses were conducted in Python and *scikit-learn*. The complete analysis code is provided in analysis.py.
+
+# Running the analysis
+
+Download or clone this repository, open a terminal in the repository's root directory, and execute:
+
+```
+python analysis.py
+```
+
+The script uses the dataset provided in the data/ directory to reproduce the analyses reported in the article.
+
+# Output
+
+The script generates the statistical results and saves two figures in the results/ directory:
+
+* confusion_matrix.png – Confusion matrix showing the model's classification performance on the test data.
+* feature_importances.png – Bar chart displaying the relative importance of the predictor variables in the random forest model.
 
 # License
 
